@@ -3,20 +3,27 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 <details>
-  <summary><b>More information</b></summary>
+  <summary><b>Harga Script</b></summary>
+  <text>
 
-```
-  ★Scripts Price★
     -7 Hari/Day    : Rp20.000
     -1 Bulan/Month : Rp50.000
-    *Method Pembayaran
+
+  <details>
+    <summary><b>Method Pembayaran</b></summary>
+    <text>
+
       -Dana
       -Gopay
       -Ovo
       -Qris
 
-  ★My Media Account★
-     -Facebook
-     -WhatsApp
-     -Telegram
-     -Grub WhatsApp
+  </text>
+</details>
+<details>
+  <summary><b>My Social Accounts</b></summary>
+  <text>
+    -Telegram : https://t.me/dumai_991
+    -WhatsApp : https://wa.me/+6283893415477
+    -Grub Wa. : https://chat.whatsapp.com/KPA2qoxJ3WvDrgifYW6Oy2
+</details>
