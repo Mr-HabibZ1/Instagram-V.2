@@ -17,13 +17,12 @@ Welcome
       -Gopay
       -Ovo
       -Qris
+  <details>
+    <summary><b>Method Pembayaran</b></summary>
+    <text>
 
-  </text>
-</details>
-<details>
-  <summary><b>My Social Accounts</b></summary>
-  <text>
     -Telegram : https://t.me/dumai_991
     -WhatsApp : https://wa.me/+6283893415477
     -Grub Wa. : https://chat.whatsapp.com/KPA2qoxJ3WvDrgifYW6Oy2
+  </text>
 </details>
