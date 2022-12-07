@@ -18,7 +18,7 @@ Welcome
       -Ovo
       -Qris
   <details>
-    <summary><b>Method Pembayaran</b></summary>
+    <summary><b>Link Sosial</b></summary>
     <text>
 
     -Telegram : https://t.me/dumai_991
