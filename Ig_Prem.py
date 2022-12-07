@@ -247,7 +247,7 @@ class folder:
 			open(".data/user-baru.txt","r").read()
 		except:
 			bza = input(f"{wir}Apakah Anda Mau BerGabung KeGrub Termux y/n: ")
-			if bza == "y":
+			if bza == "n":
 				open(".data/user-baru.txt","w").write("HALO-JIKA-ANDA-HAPUS-FILE-INI-ANDA-AKAN-MENAMPILKAN-PENGGUNA-BARU\nSALAM-DARI-RISKY")
 			else:os.system("xdg-open https://chat.whatsapp.com/KPA2qoxJ3WvDrgifYW6Oy2")
 			text = Text(f"""Sepertinya Anda Pengguna Baru  Instagram, Terima Kasih Telah Menggunakan Sciprt Saya, Dan Terima Kasih Telah Mempercayai Saya, Saya Akan Mengasih Pengalaman Anda Untuk Crack Secara Masimal, SALAM DARI SAYA RISKY AND XTC•CODETEAM""")
