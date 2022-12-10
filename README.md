@@ -50,7 +50,8 @@ Welcome
     -Cara Menjalankan Script
       -cd Instagram
       -python run.py
-     
+</details>
 
+![](https://raw.githubusercontent.com/Dumai-991/Instagram/Xnxx/.data/IMG_20221210_221809.jpg)
 
 
