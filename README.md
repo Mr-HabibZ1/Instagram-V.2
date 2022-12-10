@@ -37,7 +37,7 @@ Welcome
       -Termux.apk
       -Paket/WIFI
     -Cara Install Bahan
-      -apt update $$ apt upgrade
+      -apt update && apt upgrade
       -termux-setup-storage  
         • Enter  
         • Ketik y Atau Pilih Izinkan
