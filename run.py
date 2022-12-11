@@ -217,8 +217,7 @@ ok	=[]
 cp	=[]
 loop	=0
 sesion	=0
-nzk = "1"
-
+nzk="1"
 User_Agent_Fake1=("Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 243.1.0.14.111 (iPhone13,3; iOS 15_5; en_US; en-US; scale=3.00; 1170x2532; 382468104) NW/3")
 User_Agent_Fake2 = ["Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.701 Mobile Safari/534.8+",
 "Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-US) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.466 Mobile Safari/534.8+",
@@ -281,15 +280,19 @@ class folder:
 		try:os.mkdir("results")
 		except:pass
 		try:
-			open(".data/user-baru.txt","r").read()
+			open(".data/user-baruz.txt","r").read()
 		except:
-			open(".data/user-baru.txt","w").write("HALO-JIKA-ANDA-HAPUS-FILE-INI-ANDA-AKAN-MENAMPILKAN-PENGGUNA-BARU\nSALAM-DARI-RISKY")
+			bza = input(f"{wir}Apakah Anda Mau BerGabung KeGrub Termux y/n: ")
+			if bza == "n":
+				open(".data/user-baruz.txt","w").write("HALO-JIKA-ANDA-HAPUS-FILE-INI-ANDA-AKAN-MENAMPILKAN-PENGGUNA-BARU\nSALAM-DARI-RISKY")
+			else:os.system("xdg-open https://chat.whatsapp.com/KPA2qoxJ3WvDrgifYW6Oy2")
 			text = Text(f"""Sepertinya Anda Pengguna Baru  Instagram, Terima Kasih Telah Menggunakan Sciprt Saya, Dan Terima Kasih Telah Mempercayai Saya, Saya Akan Mengasih Pengalaman Anda Untuk Crack Secara Masimal, SALAM DARI SAYA RISKY AND XTC•CODETEAM""")
 			text.highlight_words(["Pengguna Baru  Instagram"],"bold yellow")
 			text.highlight_words(["Terima Kasih","Mempercayai Saya"], "bold green")
 			text.highlight_words(["RISKY","XTC•CODETEAM","Masimal"], "italic white")
 			console.rule("Information Pengguna Baru",style="red")
 			console.print(text, style="cyan", justify="center")
+			time.sleep(7)
 class logo:
 	def __init__(self):
 		my_logo = f"""{OO}⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀
